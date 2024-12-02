@@ -97,6 +97,9 @@ Robot 3D Model
 Robot Operation with Teleop Twist Keyboard - 
 [Demo Video: Teleop Twist Keyboard](Robot_Operation_with_Teleop_Twist_Keyboard.mp4)
 
+Hector Mapping and Saved Map
+[Demo Video: Hector Mapping and Saved Map](hector_mapping_demo.mp4)
+
 
 
 
