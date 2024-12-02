@@ -80,9 +80,20 @@ ensuring a seamless workflow and minimizing human contact.
 
 ## **Images**
 
-robot_design.jpg
-team_with_robot.jpg
-winning_certificate.jpg
-team_holding_certificates.jpg
-hector_mapping.jpg
-robot_3d_model.jpg
+![Robot Design](robot_design.jpeg)
+
+![Team with Robot](team_with_robot.jpg)
+
+![Winning Certificate](winning_certificate.jpg)
+
+![Team holding Certificates](team_holding_certificates.jpg)
+
+![Hector Mapping](hector_mapping.jpeg)
+
+![Robot 3D Model](robot_3d_model.jpeg)
+
+
+
+
+
+
