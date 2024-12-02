@@ -79,19 +79,17 @@ ensuring a seamless workflow and minimizing human contact.
   SLAM, and autonomous navigation.
 
 ## **Images**
-
+Robot Design
 ![Robot Design](robot_design.jpeg)
- <img src="robot_design.jpg" alt="Robot Design" width="600">
-
-
+Team with Robot
 ![Team with Robot](team_with_robot.jpg)
-
+Winning Certificate
 ![Winning Certificate](winning_certificate.jpg)
-
+Team holding Certificates
 ![Team holding Certificates](team_holding_certificates.jpg)
-
+Hector Mapping
 ![Hector Mapping](hector_mapping.jpeg)
-
+Robot 3D Model
 ![Robot 3D Model](robot_3d_model.jpeg)
 
 
