@@ -81,6 +81,8 @@ ensuring a seamless workflow and minimizing human contact.
 ## **Images**
 
 ![Robot Design](robot_design.jpeg)
+<img src="robot_design.jpg" alt="Robot Design" width="500"/>
+
 
 ![Team with Robot](team_with_robot.jpg)
 
