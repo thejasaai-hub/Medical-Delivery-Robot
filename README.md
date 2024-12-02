@@ -77,3 +77,12 @@ ensuring a seamless workflow and minimizing human contact.
   and its ongoing development.
 - The content shared here reflects my personal learning and achievements, such as gaining expertise in ROS,
   SLAM, and autonomous navigation.
+
+## **Images**
+
+robot_design.jpg
+team_with_robot.jpg
+winning_certificate.jpg
+team_holding_certificates.jpg
+hector_mapping.jpg
+robot_3d_model.jpg
